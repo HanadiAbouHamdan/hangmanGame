@@ -1,0 +1,16 @@
+canvas {
+    border: 1px solid black;
+    height: 300px;
+    width:300px;
+    background-color: white;
+}
+
+body{
+    background-color:gray;
+    margin-left: 400px;
+   
+}
+#word{
+    margin-left:60px;
+    font-size:25px;
+}
